@@ -1,0 +1,1 @@
+export { default as Icon, IconSet} from "./Icon/Icon"
